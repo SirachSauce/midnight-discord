@@ -35,15 +35,15 @@
 	--mention-hover: hsla(190, 60%, 50%, 0.05);
 
 	/* color of bright text on colored buttons */
-	--text-1: hsl(220, 40%, 90%);
+	--text-1: hsl(243, 31%, 89%);
 	/* color of headings and important text */
-	--text-2: hsl(220, 30%, 70%);
+	--text-2: hsl(243, 26%, 89%);
 	/* color of normal text */
-	--text-3: hsl(220, 15%, 60%);
+	--text-3: hsl(243, 11%, 89%);
 	/* color of icon buttons and channels */
-	--text-4: hsl(220, 15%, 40%);
+	--text-4: hsl(243, 11%, 69%);
 	/* color of muted channels/chats and timestamps */
-	--text-5: hsl(220, 15%, 24%);
+	--text-5: hsl(243, 11%, 50%);
 
 	/* color of dark buttons when clicked */
 	--bg-1: hsl(220, 15%, 20%);
